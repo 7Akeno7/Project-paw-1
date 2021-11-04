@@ -1,0 +1,4 @@
+login, register user	: Geo
+login, register penerbit: Yero
+landing page			: Mikha
+buku					: Joy
